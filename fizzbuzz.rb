@@ -5,7 +5,7 @@ if int % 5 == 0
   "Buzz"
 if int % 15 == 0
   "Fizzbuzz"
-    
+
 else print "Fizzbuzz"
  end
 end
