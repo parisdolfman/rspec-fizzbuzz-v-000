@@ -5,8 +5,8 @@ elsif int % 5 == 0
   "Buzz"
 elsif int % 3 && 5 != 0
   "Fizzbuzz"
-   
-else  
-  
+
+else
+
  end
 end
