@@ -6,7 +6,7 @@ elsif int % 5 == 0
 elsif int % 15 == 0
   "Fizzbuzz"
 
-else prints "nil"
+else nil 
 
  end
 end
