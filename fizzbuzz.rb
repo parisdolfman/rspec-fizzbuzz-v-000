@@ -6,7 +6,7 @@ elsif int % 3 == 0
 elsif int % 5 == 0
   "Fizzbuzz"
 
-else puts int 
+else puts int
 
  end
 end
